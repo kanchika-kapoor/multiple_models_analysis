@@ -3,6 +3,7 @@
 ```
 Name: Kanchika Sudhirkumar Kapoor
 email id: 10621287@mydbs.ie
+repo url: https://github.com/kanchika-kapoor/multiple_models_analysis
 ```
 Answers for Q1 and Q2 are in `ml_ca2_q1_q2_answer.ipynb` notebook since the data and methods are shared amongst the regression and classification problems
 
